@@ -1,0 +1,9 @@
+{
+  "dailyShopItem": {
+    "shopItem": "1",
+    "shopItemType": "song",
+    "shopItemUnlocks": "4"
+  },
+  "otherItems": {
+  }
+}
