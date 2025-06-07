@@ -20,5 +20,17 @@
       Neon Bounce is a arcade-style PC and mobile game where you can click or tap to throw a ball at enemy balls, keep streaks and combos, and build up a huge score.
     </p>
     <a class="btn btn-primary" href="Neon%20Bounce.html">Play</a>
+    <script>
+      if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+    .then((reg) => {
+      console.log('Service worker registered.', reg);
+    })
+    .catch((err) => {
+      console.error('Service worker registration failed:', err);
+    });
+}
+
+    </script>
   </body>
 </html>
