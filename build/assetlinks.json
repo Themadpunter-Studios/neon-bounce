@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.themadpunter.neonbounce",
-        "sha256_cert_fingerprints": ["21:93:11:19:CD:7F:E5:7A:F3:62:57:D5:03:D2:2D:78:2B:A2:15:AB:A3:2C:90:62:47:C6:0B:7B:5A:14:42:92"]
-      }
-    }]
